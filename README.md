@@ -16,4 +16,4 @@ I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's 
 |Paper|--% (err --%)|--% (err --%)|
 
 Results in the paper<br/>
-![제목 없음](https://user-images.githubusercontent.com/20814465/124236061-fccb9880-db50-11eb-9215-d13f757d56f7.png)
+![제목 없음](https://user-images.githubusercontent.com/20814465/124236121-0ead3b80-db51-11eb-9b2f-cbb8b63363ec.png)
