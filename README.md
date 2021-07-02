@@ -2,7 +2,7 @@
 pytorch code for resnext on CIFAR10
 
 This implementation is for studying the ResNeXt paper, "Aggregated Residual Transformations for Deep Neural Networks, \
-Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He".
+Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He (2016)".
 
 
 # Details
