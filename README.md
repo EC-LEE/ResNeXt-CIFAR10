@@ -13,4 +13,4 @@ I tried to make it exactly same way described in the paper(see Sec 5.3 of the Xi
 ||ResNet_l-29|ResNeXt-29|
 |------|---|---|
 |Test|--% (err --%)|--% (err --%)|
-|Paper|--% (err --%)|92.49% (err --%)|
+|Paper|--% (err --%)|--% (err --%)|
