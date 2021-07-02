@@ -10,7 +10,7 @@ I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's 
 1. per-pixcel mean substraction is not used, but instead I nomalized with (0.5,0.5).
 
 # Results
-||ResNet_l-29|ResNeXt-29|
+||ResNet-29(increase width)|ResNeXt-29(increase cardinality|
 |------|---|---|
 |Test|--% (err --%)|--% (err --%)|
 |Paper|--% (err --%)|--% (err --%)|
