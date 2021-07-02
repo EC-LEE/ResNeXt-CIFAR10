@@ -14,5 +14,6 @@ I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's 
 |------|---|---|
 |Test|--% (err --%)|--% (err --%)|
 |Paper|--% (err --%)|--% (err --%)|
-![제목 없음](https://user-images.githubusercontent.com/20814465/124235567-5b444700-db50-11eb-826b-dee5e6fb7808.png)
 
+
+![제목 없음](https://user-images.githubusercontent.com/20814465/124235653-7a42d900-db50-11eb-81eb-4595b9f50d8c.png)
