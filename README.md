@@ -8,6 +8,7 @@ Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He (2016)".
 # Details
 I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's paper), but except for these things.
 1. per-pixcel mean substraction is not used, but instead I nomalized with (0.5,0.5).
+2. Though the learning rate started from  0.1 in the paper, I used '0.01' because training model exploded when the lr started from '0.1'.
 
 # Results
 ||ResNet-29(increase width)|ResNeXt-29(increase cardinality)|
