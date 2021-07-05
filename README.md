@@ -15,6 +15,7 @@ I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's 
 |------|---|---|
 |ResNet-29(increase width)|--% (err --%)|--% (err --%)|
 |ResNeXt-29(increase cardinality)|--% (err --%)|--% (err --%)|
+
 ![제목 없음1](https://user-images.githubusercontent.com/20814465/124403463-8d80bf00-dd71-11eb-8eba-a6225031a92c.png)
 
 
