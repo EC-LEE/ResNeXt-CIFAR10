@@ -22,6 +22,6 @@ I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's 
 * 128d and 3x64d models have similar complexity.<br/>
 * all scores are slightly lower than paper, and I'm fixing it.
 
-
+-----------------------------------------------
 * results of the paper<br/>
 ![제목 없음](https://user-images.githubusercontent.com/20814465/124236121-0ead3b80-db51-11eb-9b2f-cbb8b63363ec.png)
