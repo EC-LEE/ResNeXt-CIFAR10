@@ -11,7 +11,7 @@ I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's 
 2. Though the learning rate started from  '0.1' in the paper, I used '0.01' because training model exploded when the lr started from '0.1'.
 
 # Results
-|aaaaaaaaaaa|ResNeXt-29(increase cardinality)|
+||aaaaaaaaaaa|ResNeXt-29(increase cardinality)|
 |------|---|---|
 |ResNet-29(increase width)|--% (err --%)|--% (err --%)|
 |ResNeXt-29(increase cardinality)|--% (err --%)|--% (err --%)|
