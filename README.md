@@ -11,10 +11,13 @@ I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's 
 2. Though the learning rate started from  '0.1' in the paper, I used '0.01' because training model exploded when the lr started from '0.1'.
 
 # Results
-||ResNet-29(increase width)|ResNeXt-29(increase cardinality)|
+||aaaaaaaaaaa|ResNeXt-29(increase cardinality)|
 |------|---|---|
-|Test|--% (err --%)|--% (err --%)|
-|Paper|--% (err --%)|--% (err --%)|
+|ResNet-29(increase width)|--% (err --%)|--% (err --%)|
+|ResNeXt-29(increase cardinality)|--% (err --%)|--% (err --%)|
+![제목 없음1](https://user-images.githubusercontent.com/20814465/124403463-8d80bf00-dd71-11eb-8eba-a6225031a92c.png)
+
+
 
 * results of the paper<br/>
 ![제목 없음](https://user-images.githubusercontent.com/20814465/124236121-0ead3b80-db51-11eb-9b2f-cbb8b63363ec.png)
