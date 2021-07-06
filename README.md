@@ -12,13 +12,14 @@ I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's 
 # Results
 ||64d|92d/2x64d|128d/3x64d|160d/4x64d|
 |------|---|---|---|---|
-|ResNet-29(increase width)|94.96% (err 5.04%)|--% (err --%)|95.18% (err 4.82%)|--% (err --%)|
-|ResNeXt-29(increase cardinality)||--% (err --%)|95.57% (err 4.43%)|--% (err --%)|
+|ResNet-29(increase width)|94.74% (err 5.26%)|95.07% (err 4.93%)|--% (err --%)|--% (err --%)|
+|ResNeXt-29(increase cardinality)||95.70% (err 4.30%)|--% (err --%)|--% (err --%)|
 
 
-![제목 없음1](https://user-images.githubusercontent.com/20814465/124403666-7f7f6e00-dd72-11eb-9dad-3023b5be890b.png)
-* results show 1x64d < 128d < 3x64d
-* 128d and 3x64d models have similar complexity.<br/>
+![제목 없음](https://user-images.githubusercontent.com/20814465/124525269-9e950300-de39-11eb-9fd0-953b5cb84ee5.png)
+
+* results show 1x64d < 96d < 2x64d
+* 96d and 2x64d models have similar complexity.<br/>
 * all scores are slightly lower than paper, and I'm fixing it.
 
 -----------------------------------------------
