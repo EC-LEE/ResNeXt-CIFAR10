@@ -7,7 +7,7 @@ Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He (2016)".
 
 # Details
 I tried to make it the same as described in the paper (see Sec 5.3 of the Xie's paper), but except for these things.
-1. per-pixcel mean substraction is not used, but instead I nomalized with (0.5,0.5).
+1. I uesd learnig rate 0.05 instead of 0.1.
 
 # Results
 ||64d|92d/2x64d|128d/3x64d|160d/4x64d|
